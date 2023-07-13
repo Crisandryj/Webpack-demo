@@ -1,5 +1,6 @@
 import myName from './myName';
 import './style.css';
+import Icon from './icon.png';
 
 
 function component() {
