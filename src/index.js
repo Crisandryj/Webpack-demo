@@ -3,7 +3,7 @@ import printMe from './print.js';
 
  function component() {
    const element = document.createElement('div');
-  const btn = document.createElement('button');
+   const btn = document.createElement('button');
 
    element.innerHTML = _.join(['Hello', 'webpack'], ' ');
 
